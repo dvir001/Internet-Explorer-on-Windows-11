@@ -1,16 +1,3 @@
-﻿<#	
-	.NOTES
-	===========================================================================
-	 Created with: 	SAPIEN Technologies, Inc., PowerShell Studio 2021 v5.8.191
-	 Created on:   	28/06/2022 14:41
-	 Created by:   	Dvir F
-	 Organization: 	ITMS
-	 Filename:     	
-	===========================================================================
-	.DESCRIPTION
-		A description of the file.
-#>
-
 $vbsFile = "IE11.vbs"
 $site = "about:blank"
 $vbsFileContent = @"
